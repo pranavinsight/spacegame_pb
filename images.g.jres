@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAkAAAAACAAJmJAAAAAICQmZgAAACJmZmJAAAAkJmIiJgAAJCZmZmZmQD///////+fAJmZmZmZmZkA////////nwAAkJmZmZmZAAAAkJmZmZkAAAAAmYiImAAAAACAmZmJAAAAAACAkJmYAAAAAIAAmYkAAAAAAAAAkA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "HeroPlane"
+    },
+    "image2": {
+        "data": "hwQQABAAAAACAAAAAAAAACICAAAAAAAAICIiAAAAAAAAIiIiIgAAAFAAIiIiIiIABUT//////yIAACIlUiIlIgVE//////8iUCAiIiIiIgAAIiIiIgAAACAiIgAAAAAAIgIAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "VillainPlane"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAGAGBmlpcAAGCZeZmZmGaZZ5aYmZl5mZeZmZmJZpYABmaZmXmJiAAABgCQZmZmAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bullet"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
